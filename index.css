@@ -1,0 +1,117 @@
+body {
+    width: min(600px, 95vw);
+}
+
+main {
+    position: relative;
+
+    img {
+        width: 100%;
+        height: auto;
+    }
+
+    .shelves {
+        position: absolute;
+        top: 75px;
+        left: 30px;
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+        width: 80%;
+    }
+
+    .shelf {
+        height: 110px;
+        display: flex;
+
+        .column {
+            display: flex;
+            flex-direction: column-reverse;
+            width: 90px;
+        }
+
+        a {
+            height: 100%;
+
+            &.column-sm {
+                width: 30px;
+            }
+
+            &.column-md {
+                width: 40px;
+            }
+
+            &.column-lg {
+                width: 55px;
+            }
+
+            &.row-md {
+                height: 25px;
+            }
+
+            &.row-sm {
+                height: 20px
+            }
+        }
+    }
+}
+
+.show-status {
+    a {
+       border: solid 2px;
+       border-radius: 3px;
+    }
+
+    .not-started {
+        border-color: #f00;
+    }
+
+    .in-progess {
+        border-color: yellow;
+    }
+
+    .completed {
+        border-color: green;
+    }
+}
+
+header {
+    text-align: center;
+}
+
+.progress-bar {
+    height: 32px;
+    width: min(600px, 95vw);
+    padding: 8px 0;
+    display: flex;
+    flex-direction: row;
+
+    > div {
+        height: 100%;
+
+        p {
+            height: 50%;
+            margin: 0;
+        }
+
+        > div {
+            height: 8px;
+        }
+    }
+
+    #not-started .bar {
+        background-color: #f00;
+        border-top-left-radius: 3px;
+        border-bottom-left-radius: 3px;
+    }
+
+    #in-progress .bar {
+        background-color: yellow;
+    }
+
+    #completed .bar {
+        background-color: green;
+        border-top-right-radius: 3px;
+        border-bottom-right-radius: 3px;
+    }
+}

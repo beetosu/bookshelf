@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chloe's Bookshelf</title>
+    <link rel="stylesheet" href="/index.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="/toggle-status.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Chloe's Bookshelf :3</h1>
+        <button onclick="toggleStatus()">Toggle Status</button>
+        <div class="progress-bar">
+            <div id="not-started">
+                <p>Not Started: <b>X</b></p>
+                <div class="bar"></div>
+            </div>
+            <div id="in-progress">
+                <p>In Progess: <b>X</b></p>
+                <div class="bar"></div>
+            </div>
+            <div id="completed">
+                <p>Completed: <b>X</b></p>
+                <div class="bar"></div>
+            </div>
+        </div>
+    </header>
+    <main class="">
+        <img src="testbookshelf.png" />
+        <div class="shelves status">
+            <div class="shelf one">
+                <a id="orange" class="column-md"></a>
+                <a id="yellow" class="column-lg"></a>
+                <div class="column">
+                    <a id="red" class="row-md"></a>
+                    <a id="purple" class="row-sm"></a>
+                </div>
+            </div>
+            <div class="shelf two">
+                <a id="green" class="column-sm"></a>
+            </div>
+        </div>
+    </main>
+    <script type="module" src="/index.js" defer></script>
+</body>
+</html>
