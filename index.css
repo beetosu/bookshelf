@@ -23,14 +23,15 @@ main {
 
         .shelf {
             height: 100%;
+            width: 100%;
             justify-self: start;
             display: flex;
             align-items: end;
+            align-self: start;
 
             &.one {
-                margin: auto;
-                width: 92%;
-                height: 85%;
+                margin-left: 3.5%;
+                height: 92%;
             }
 
             a {
@@ -50,7 +51,11 @@ main {
             }
 
             .column-lg {
-                width: 3%;
+                width: 3.5%;
+            }
+
+            .column-xl {
+                width: 5.5%
             }
 
             .column-xxl {
