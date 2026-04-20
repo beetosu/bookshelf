@@ -48,6 +48,7 @@ fetch('/bookshelf.json').then((res) => res.json()).then((bookshelf) => {
             percent = countToPercent(statusCount, bookCount);
 
         if (statusBar) {
+            if (statusCount === 0) statusBar.hidden = true;
             statusBar.style = `width: ${percent}`
         }
 

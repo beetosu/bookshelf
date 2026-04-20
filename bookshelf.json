@@ -1,9 +1,7 @@
 {
     "books": [
-        { "id": "yellow", "name": "Yellow", "status": 1 },
-        { "id": "orange", "name": "Orange", "status": 2 },
-        { "id": "purple", "name": "Purple", "status": 1 },
-        { "id": "red", "name": "Red", "status": 3 },
-        { "id": "green", "name": "Green", "status": 2 }
+        { "id": "woman-in-the-dunes", "name": "The Woman In the Dunes", "status": 1 },
+        { "id": "hitchhikers-guide", "name": "The Hitchikers Guide", "status": 1 },
+        { "id": "new-york-trilogy", "name": "The New York Trilogy", "status": 1 }
     ]
 }
