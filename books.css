@@ -12,3 +12,37 @@
     height: 92%;
     transform: skew(5deg);
 }
+
+#timbuktu {
+    height: 97%;
+    transform: skew(5deg);
+}
+
+#foundation {
+    height: 105%;
+    transform: skew(5deg);
+}
+
+#beale-street {
+    height: 96%;
+    transform: skew(4deg);
+}
+
+#happy-days {
+    transform: skew(4deg);
+}
+
+#waiting-for-godot {
+    height: 97%;
+    transform: skew(4deg);
+}
+
+#decameron {
+    height: 93%;
+    transform: skew(3deg);
+}
+
+#jane-eyre {
+    height: 96%;
+    transform: skew(2deg);
+}

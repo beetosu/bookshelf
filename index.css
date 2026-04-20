@@ -29,7 +29,7 @@ main {
 
             &.one {
                 margin: auto;
-                width: 93%;
+                width: 92%;
                 height: 85%;
             }
 
@@ -37,12 +37,24 @@ main {
                 height: 100%;
             }
 
+            .column-xs {
+                width: 0.5%;
+            }
+
+            .column-sm {
+                width: 1%;
+            }
+
             .column-md {
                 width: 2%;
             }
 
             .column-lg {
-                width: 3.5%;
+                width: 3%;
+            }
+
+            .column-xxl {
+                width: 6.5%;
             }
         }
     }
@@ -60,7 +72,8 @@ main {
     }
 
     .in-progess {
-        background-color: yellow;
+        background-color: #ffff00aa;
+        border-color: yellow
     }
 
     .completed {

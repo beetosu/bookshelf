@@ -2,6 +2,31 @@
     "books": [
         { "id": "woman-in-the-dunes", "name": "The Woman In the Dunes", "status": 1 },
         { "id": "hitchhikers-guide", "name": "The Hitchikers Guide", "status": 1 },
-        { "id": "new-york-trilogy", "name": "The New York Trilogy", "status": 1 }
+        { "id": "new-york-trilogy", "name": "The New York Trilogy", "status": 1 },
+        { "id": "timbuktu", "name": "Timbuktu", "status": 1 },
+        { "id": "foundation", "name": "Foundation", "status": 2 },
+        { "id": "beale-street", "name": "If Beake Street Could Talk", "status": 1 },
+        { "id": "happy-days", "name": "Happy Days", "status": 1 },
+        { "id": "waiting-for-godot", "name": "Waiting For Godot", "status": 1 },
+        { "id": "decameron", "name": "The Decameron", "status": 1 },
+        { "id": "jane-eyre", "name": "Jane Eyre", "status": 1 },
+        { "id": "clockwork-orange", "name": "A Clockwork Orange", "status": 1 },
+        { "id": "naked-lunch", "name": "Naked Lunch", "status": 1 },
+        { "id": "fall", "name": "The Fall", "status": 1 },
+        { "id": "stranger", "name": "The Stranger", "status": 3 },
+        { "id": "in-cold-blood", "name": "In Cold Blood", "status": 1 },
+        { "id": "don-quixote", "name": "Don Quixote", "status": 1 },
+        { "id": "canterbury-tales", "name": "Canterbury Tales", "status": 1 },
+        { "id": "heart-of-darkness", "name": "Heart of Darkness", "status": 1 },
+        { "id": "selected-poems", "name": "100 Selected Poems", "status": 1 },
+        { "id": "divine-comedy", "name": "The Divine Comedy", "status": 1 },
+        { "id": "house-of-leaves", "name": "House of Leaves", "status": 1 },
+        { "id": "crime-and-punishment", "name": "Crime and Punishment", "status": 1 },
+        { "id": "idiot", "name": "The Idiot", "status": 1 },
+        { "id": "sherlock-holmes", "name": "The Adventures of Sherlock Holmes", "status": 1 },
+        { "id": "american-psycho", "name": "American Psycho", "status": 1 },
+        { "id": "sound-and-the-fury", "name": "The Sound and the Fury", "status": 3 },
+        { "id": "great-gatsby", "name": "The Great Gatsby", "status": 1 },
+        { "id": "gone-girl", "name": "Gone Girl", "status": 1 }
     ]
 }
