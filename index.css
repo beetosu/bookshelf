@@ -30,7 +30,7 @@ main {
             align-self: start;
 
             &.one {
-                margin-left: 3.5%;
+                margin-left: 4%;
                 height: 92%;
             }
 
@@ -51,7 +51,7 @@ main {
             }
 
             .column-lg {
-                width: 3.5%;
+                width: 3%;
             }
 
             .column-xl {
@@ -59,7 +59,7 @@ main {
             }
 
             .column-xxl {
-                width: 6.5%;
+                width: 7%;
             }
         }
     }
@@ -67,6 +67,7 @@ main {
 
 .show-status {
     a {
+        box-sizing: border-box;
         opacity: 70%;
         border: 1px solid;
     }
