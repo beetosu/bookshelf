@@ -48,3 +48,97 @@
     height: 89%;
     transform: skew(2deg);
 }
+
+#clockwork-orange {
+    height: 92%;
+    transform: skew(2deg);
+}
+
+#naked-lunch {
+    height: 90%;
+    transform: skew(2deg);
+}
+
+#fall {
+    height: 88%;
+    width: 1.5%;
+    transform: skew(1deg);
+}
+
+#stranger {
+    height: 88%;
+    transform: skew(1deg);
+}
+
+#in-cold-blood {
+    height: 86%;
+}
+
+#don-quixote {
+    height: 85%;
+}
+
+#canterbury-tales {
+    height: 82%;
+}
+
+#heart-of-darkness {
+    height: 73%;
+}
+
+#selected-poems {
+    height: 86%;
+}
+
+#divine-comedy {
+    height: 76%;
+}
+
+#crime-and-punishment {
+    width: 95%;
+}
+
+#idiot {
+    width: 88%;
+}
+
+#sherlock-holmes {
+    width: 75%;
+}
+
+#american-psycho {
+    width: 88%;
+}
+
+#sound-and-the-fury {
+    width: 88%;
+    height: 8%;
+}
+
+#great-gatsby {
+    width: 88%;
+}
+
+#gone-girl {
+    width: 88%;
+}
+
+#lesson-before-dying {
+    height: 86%;
+    transform: skew(-3deg);
+}
+
+#in-our-time {
+    height: 76%;
+    transform: skew(-3deg);
+}
+
+#sun-also-rises {
+    height: 95%;
+    transform: skew(-3deg);
+}
+
+#catch-22 {
+    height: 73%;
+    transform: skew(-3deg);
+}

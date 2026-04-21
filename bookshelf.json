@@ -27,6 +27,10 @@
         { "id": "american-psycho", "name": "American Psycho", "status": 1 },
         { "id": "sound-and-the-fury", "name": "The Sound and the Fury", "status": 3 },
         { "id": "great-gatsby", "name": "The Great Gatsby", "status": 1 },
-        { "id": "gone-girl", "name": "Gone Girl", "status": 1 }
+        { "id": "gone-girl", "name": "Gone Girl", "status": 1 },
+        { "id": "lesson-before-dying", "name": "A Lesson Before Dying", "status": 1 },
+        { "id": "in-our-time", "name": "In Our Time", "status": 1 },
+        { "id": "sun-also-rises", "name": "The Sun Also Rises", "status": 1 },
+        { "id": "catch-22", "name": "Catch 22", "status": 1 }
     ]
 }

@@ -29,12 +29,42 @@ main {
             align-items: end;
             align-self: start;
 
+            .stack {
+                display: flex;
+                flex-direction: column-reverse;
+                height: 100%;
+
+                a {
+                    width: 100%;
+                }
+
+                .row-sm {
+                    height: 7%;
+                }
+
+                .row-md {
+                    height: 10%;
+                }
+
+                .row-lg {
+                    height: 12.5%;
+                }
+
+                .row-xl {
+                    height: 16%;
+                }
+            }
+
             &.one {
                 margin-left: 4%;
                 height: 92%;
+
+                .stack {
+                    width: 28%;
+                }
             }
 
-            a {
+            > a {
                 height: 100%;
             }
 
@@ -83,7 +113,8 @@ main {
     }
 
     .completed {
-        background-color: green;
+        background-color: #00ff00aa;
+        border-color: green;
     }
 }
 
