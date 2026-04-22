@@ -64,6 +64,11 @@ main {
                 }
             }
 
+            &.two {
+                margin-left: 4%;
+                height: 78%;
+            }
+
             > a {
                 height: 100%;
             }
@@ -85,10 +90,14 @@ main {
             }
 
             .column-xl {
-                width: 5.5%
+                width: 4%;
             }
 
             .column-xxl {
+                width: 6%;
+            }
+
+            .column-3xl {
                 width: 7%;
             }
         }

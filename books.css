@@ -41,6 +41,7 @@
 
 #decameron {
     height: 85%;
+    width: 5.5%;
     transform: skew(3deg);
 }
 
@@ -141,4 +142,166 @@
 #catch-22 {
     height: 73%;
     transform: skew(-3deg);
+}
+
+#siddhartha {
+    height: 70%;
+    margin-bottom: 1%;
+}
+
+#dubliners {
+    height: 70%;
+    margin-bottom: 1%;
+    transform: skew(2deg);
+}
+
+#portrait-of-the-artist {
+    height: 83%;
+    margin-bottom: 1%;
+    transform: skew(3deg);
+}
+
+#ulysses {
+    height: 85%;
+    transform: skew(2deg);
+    margin-bottom: 1%;
+}
+
+#trial {
+    margin-bottom: 1%;
+    height: 80%;
+}
+
+#unbearable-lightness {
+    margin-bottom: 1%;
+    height: 80%;
+}
+
+#girl-with-the-dragon-tattoo {
+    margin-bottom: 1.5%;
+    height: 73%;
+}
+
+#three-body-problem {
+    height: 95%;
+}
+
+#doctor-faustus {
+    height: 75%;
+}
+
+#one-hundred-years {
+    margin-bottom: 1.5%;
+    height: 66%;
+}
+
+#game-of-thrones {
+    margin-bottom: 1.5%;
+    height: 66%;
+}
+
+#road {
+    margin-bottom: 0.5%;
+    height: 80%;
+}
+
+#paradise-lost {
+    margin-bottom: 0.5%;
+    height: 73%;
+}
+
+#sailor {
+    height: 82%;
+    width: 1.5%;
+}
+
+#beloved {
+    height: 82%;
+    transform: skew(1deg);
+}
+
+#bluest-eye {
+    width: 1.5%;
+    height: 69%;
+    transform: skew(1deg);
+}
+
+#song-of-solomon {
+    height: 82%;
+    width: 2.5%;
+    transform: skew(1.5deg);
+}
+
+#colorless-tsukuru {
+    height: 82%;
+    width: 2.5%;
+    transform: skew(1.5deg);
+}
+
+#dance-dance-dance {
+    height: 82%;
+    transform: skew(2deg);
+}
+
+#kafka-on-the-shore {
+    height: 82%;
+    transform: skew(2deg);
+}
+
+#wind-up-bird {
+    height: 83%;
+    transform: skew(1deg);
+}
+
+#lolita {
+    height: 73%;
+    transform: skew(1deg);
+    width: 2.5%;
+}
+
+#a-personal-matter {
+    height: 85%;
+    transform: skew(2deg);
+}
+
+#gravitys-rainbow {
+    margin-bottom: 0.5%;
+    height: 85%;
+    transform: skew(2deg);
+}
+
+#mason-dixon {
+    height: 95%;
+    width: 6.5%;
+    transform: skew(1deg);
+}
+
+#american-pastoral {
+    margin-bottom: 0.5%;
+    height: 81.5%;
+}
+
+#catcher-in-the-rye {
+    margin-bottom: 0.5%;
+    width: 2.5%;
+    height: 69%;
+    transform: skew(2deg);
+}
+
+#disaster-artist {
+    margin-bottom: 0.5%;
+    height: 85%;
+    width: 2.5%;
+    transform: skew(1deg);
+}
+
+#when-i-sing {
+    margin-bottom: 0.5%;
+    height: 84%;
+    transform: skew(1deg);
+}
+
+#i-am-a-cat {
+    margin-bottom: 0.5%;
+    height: 82%;
 }
